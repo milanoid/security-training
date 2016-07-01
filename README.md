@@ -3,7 +3,7 @@
 ## Tools
 - [Burp Suite](https://portswigger.net/burp/)
 - [dirb](http://dirb.sourceforge.net/about.html) - Web Content Scanner
-- [sqlmpa](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
+- [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
 
 
 ## Web Content Scanner tools
